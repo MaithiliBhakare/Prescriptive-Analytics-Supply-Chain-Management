@@ -10,6 +10,7 @@ The task is to optimize the number of parts manufactured of each category to max
 
 ## Conclusion:
 ![image](https://github.com/MaithiliBhakare/Prescriptive-Analytics-Supply-Chain-Management/blob/78c19a822757e3d675cb50cfea861d09f3f6fdc3/Prescriptive%20Analytics%20Assesment.png)
-78 pieces of Birdbaths and 62 pieces of Large Planter should be manufactured in a month with given constraints to maximize the profit of 5,450 USD.
+
+### 78 pieces of Birdbaths and 62 pieces of Large Planter should be manufactured in a month with given constraints to maximize the profit of 5,450 USD.
 
 
